@@ -1,7 +1,5 @@
 # 📚 Hướng Dẫn Học Git - Từ Cơ Bản Đến Nâng Cao
 
-> **Tài liệu học Git chi tiết** dựa trên khóa học từ [Fullstack.edu.vn](https://fullstack.edu.vn/learning/git?id=d65573db-7d77-4753-83fa-c2f51baabb5d) với ví dụ thực tế và minh họa rõ ràng.
-
 ## 📋 Mục Lục
 1. [🎯 Giới thiệu về Git](#-giới-thiệu-về-git)
 2. [⚙️ Cài đặt và Cấu hình](#️-cài-đặt-và-cấu-hình)
